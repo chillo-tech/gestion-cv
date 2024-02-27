@@ -1,0 +1,4 @@
+GET http://localhost:8083/api/cv
+Accept: application/json
+
+###

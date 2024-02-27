@@ -1,0 +1,314 @@
+[
+  {
+    "firstName": "Brightman Klin",
+    "lastName": "EFO'O DJOUCK KOMEKA",
+    "title": "Développeur FULLSTACK JS/TS",
+    "about": "Passionné par le développement web, j'ai acquis une solide expertise dans la création d'applications web innovantes et performantes. Mon amour pour la programmation me pousse à toujours chercher à améliorer mes compétences et à suivre les dernières tendances technologiques aussi bien en JavaScript qu’en TypeScript.",
+    "formations": [
+      {
+        "description": "2016",
+        "title": "BACCALAUREAT - C",
+        "subTitle": "Garoua / Cameroun"
+      },
+      {
+        "description": "2019",
+        "title": "DUT AUTOMATIQUE ET INFORMATIQUE INDUSTRIELLE (AII)",
+        "subTitle": "IUT FOTSO Victor de BANDJOUN, Cameroun"
+      },
+      {
+        "description": "2020",
+        "title": "LICENCE INFORMATIQUE FONDAMENTALE",
+        "subTitle": "Université de DSCHANG, Cameroun"
+      }
+    ],
+    "interests": [
+      {
+        "title": "FootBall"
+      },
+      {
+        "title": "Billard"
+      }
+    ],
+    "languages": [
+      {
+        "description": "",
+        "title": "Français",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "Anglais",
+        "subTitle": ""
+      }
+    ],
+    "skills": [
+      {
+        "description": "",
+        "title": "JavaScript",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "TypeScript",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "ANDROID STUDIO",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "Kotlin",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "Python",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "MongoDB",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "NodeJS",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "React",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "React Native",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "IOT",
+        "subTitle": ""
+      }
+    ],
+    "experiences": [
+      {
+        "startDate": "Janvier 2024",
+        "endDate": "",
+        "job": "Développeur fullstack",
+        "company": "CHILLO SERVICES",
+        "location": "Yaounde CAMEROUN",
+        "tasks": [
+          {
+            "title": "Développement d'une application web responsive pour la gestion de la communauté CHILLO"
+          },
+          {
+            "title": "Développement d'une API REST pour la gestion de la communauté CHILLO"
+          },
+          {
+            "title": "Développement de nouvelles pages à ajouter sur un site déjà existant"
+          },
+          {
+            "title": "Optimisation du SEO d'applications web"
+          },
+          {
+            "title": "Conception de modèles de données d'applications web"
+          }
+        ]
+      },
+      {
+        "startDate": "Mars 2021",
+        "endDate": "Décembre 2023",
+        "job": "Développeur Full Stack Mobile et WEB",
+        "company": "Dmservices Cameroun",
+        "location": "Yaounde CAMEROUN",
+        "tasks": [
+          {
+            "title": "Réalisation de sites web à partir de design adobe XD et figma"
+          },
+          {
+            "title": "Conception et création d'applications cross-platform avec React Native"
+          },
+          {
+            "title": "Développement de package NodeJs pour la gestion des events"
+          },
+          {
+            "title": "Développement d'une API REST pour l'envoi de mail et de messages whatsapp en masse"
+          },
+          {
+            "title": "Intégration de design d'applications mobile figma avec Android Studio"
+          },
+          {
+            "title": "Développement d'un ChatBot pour la vente de tickets de BUS au Cameroun"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "firstName": "Stéphane",
+    "lastName": "BITEB",
+    "title": "Développeur FULLSTACK",
+    "about": "",
+    "formations": [
+      {
+        "description": "2014",
+        "title": "BACCALAUREAT - TIC",
+        "subTitle": "Garoua / Cameroun"
+      },
+      {
+        "description": "2018",
+        "title": "LICENCE IT4D",
+        "subTitle": "Université Yaounde 1, Cameroun"
+      }
+    ],
+    "interests": [
+      {
+        "title": "FootBall"
+      },
+      {
+        "title": "Basketball"
+      }
+    ],
+    "languages": [
+      {
+        "description": "",
+        "title": "Français",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "Anglais",
+        "subTitle": ""
+      }
+    ],
+    "skills": [
+      {
+        "description": "",
+        "title": "Clean architecture",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "API RESTFULL",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "SPRING",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "SPRING SECURITY",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "Postgres",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "MongoDB",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "NodeJS",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "React",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "React",
+        "subTitle": ""
+      },
+      {
+        "description": "",
+        "title": "GITLAB",
+        "subTitle": ""
+      }
+    ],
+    "experiences": [
+      {
+        "startDate": "Octobre 2023",
+        "endDate": "",
+        "job": "Développeur fullstack",
+        "company": "CHILLO SERVICES",
+        "location": "Yaoundé CAMEROUN",
+        "tasks": [
+          {
+            "title": "Développement et maintenance d'une application web responsive utilisant les technologies Réactjs et Nextjs, et backend nodeJs selon les besoins du projets."
+          },
+          {
+            "title": "Collaboration étroite avec l'équipe de conception et le clients pour assurer et la validation des cahiers de charge et une expérience utilisateur optimale selon les besoins du clients"
+          },
+          {
+            "title": "Optimisation des performances de l'application et des requêtes en utilisant des techniques de chargement asynchrone et de mise en cache des donnes"
+          },
+          {
+            "title": "Intégration de nouvelles fonctionnalités en respectant les délais et les spécifications techniques"
+          },
+          {
+            "title": "Participation à la refonte complète de l'interface utilisateur, et certains site clients en utilisant les meilleures pratiques de conception et en suivant les tendances actuelles du design web"
+          },
+          {
+            "title": "Participation à la refonte complète de l'interface utilisateur, et certains site clients en utilisant les meilleures pratiques de conception et en suivant les tendances actuelles du design web"
+          },
+          {
+            "title": "Optimisation du backend et projet existant de l'entreprise"
+          }
+        ]
+      },
+      {
+        "startDate": "Avr 2021",
+        "endDate": "Sep 2022",
+        "job": "Développeur Mobile Full Stack",
+        "company": "Danaid",
+        "location": "Douala CAMEROUN",
+        "tasks": [
+          {
+            "title": "Collaborer avec une équipe de développeurs pour assurer la qualité etla performance de l'application"
+          },
+          {
+            "title": "Intégration des maquettes figma"
+          },
+          {
+            "title": "Optimiser des performances de l'application pour assurer uneexpérience utilisateur fluide"
+          },
+          {
+            "title": "Développer de fonctionnalités de synchronisation en temps réel avecune base de données distante"
+          }
+        ]
+      },
+      {
+        "startDate": "Fev. 2019",
+        "endDate": "Mai 2021",
+        "job": "Developpeur FULLSTACK",
+        "company": "MBOA SMS",
+        "location": "Douala CAMEROUN",
+        "tasks": [
+          {
+            "title": "Développement d'une application web utilisant les technologiesReactJs"
+          },
+          {
+            "title": "Développement du backend"
+          },
+          {
+            "title": "Intégration de services tiers, tels que le paiement en ligne (orange,MTN)"
+          },
+          {
+            "title": "Architecturemicroservices, pour améliorer la scalabilité et la flexibilité de l'application"
+          }
+        ]
+      }
+    ]
+  }
+]
